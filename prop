@@ -1,0 +1,5 @@
+path=C:\\Work\\VQ_tools\\Tencent
+output=Tencent.xlsx
+#folders you don't want to include in the graph
+masks=
+#v205_avc_cutoff;v205_avc_cuton;v205_avc_cutoff_3B;v205_avc_cuton_3B;v205_hevc;v205_hevc_1B;v205_hevc_ada;v205_hevc_ada_cuton;x264;x265

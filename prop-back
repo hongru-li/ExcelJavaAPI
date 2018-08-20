@@ -1,0 +1,4 @@
+path=C:\\Work\\YYtest
+output=YY_AVC.xlsx
+#folders you don't want to include in the graph
+masks=v205_hevc;v205_hevc_1B;v205_hevc_ada;x265;v205_hevc_ada_cuton
