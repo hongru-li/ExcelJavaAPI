@@ -1,0 +1,26 @@
+video1,video2,PSNR_YYUV,SSIM (precise)_YYUV
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_0B/BasketballDrive_1920x1080_50_1M.264,27.76886,0.80479
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_0B/BasketballDrive_1920x1080_50_2M.264,31.39131,0.86299
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_0B/BasketballDrive_1920x1080_50_3M.264,33.08114,0.88486
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_0B/BasketballDrive_1920x1080_50_4M.264,34.35478,0.89993
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_0B/BasketballDrive_1920x1080_50_5M.264,35.14309,0.90880
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_3B/BasketballDrive_1920x1080_50_1M.264,28.15785,0.81072
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_3B/BasketballDrive_1920x1080_50_2M.264,30.26162,0.84540
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_3B/BasketballDrive_1920x1080_50_3M.264,32.42086,0.87745
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_3B/BasketballDrive_1920x1080_50_4M.264,33.86680,0.89508
+BasketballDrive_1920x1080_50.yuv,v205_avc_cutoff_3B/BasketballDrive_1920x1080_50_5M.264,35.01798,0.90794
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_0B/BasketballDrive_1920x1080_50_1M.264,28.79555,0.82476
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_0B/BasketballDrive_1920x1080_50_2M.264,32.41796,0.87597
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_0B/BasketballDrive_1920x1080_50_3M.264,33.31094,0.88735
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_0B/BasketballDrive_1920x1080_50_4M.264,34.51958,0.90163
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_0B/BasketballDrive_1920x1080_50_5M.264,35.42902,0.91135
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_3B/BasketballDrive_1920x1080_50_1M.264,28.64573,0.81927
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_3B/BasketballDrive_1920x1080_50_2M.264,30.41824,0.84818
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_3B/BasketballDrive_1920x1080_50_3M.264,32.41608,0.87731
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_3B/BasketballDrive_1920x1080_50_4M.264,33.86680,0.89508
+BasketballDrive_1920x1080_50.yuv,v205_avc_cuton_3B/BasketballDrive_1920x1080_50_5M.264,35.01798,0.90794
+BasketballDrive_1920x1080_50.yuv,x264/BasketballDrive_1920x1080_50_1M.264,26.67442,0.78514
+BasketballDrive_1920x1080_50.yuv,x264/BasketballDrive_1920x1080_50_2M.264,30.64118,0.85645
+BasketballDrive_1920x1080_50.yuv,x264/BasketballDrive_1920x1080_50_3M.264,33.12007,0.89268
+BasketballDrive_1920x1080_50.yuv,x264/BasketballDrive_1920x1080_50_4M.264,34.64202,0.91013
+BasketballDrive_1920x1080_50.yuv,x264/BasketballDrive_1920x1080_50_5M.264,35.75998,0.92122

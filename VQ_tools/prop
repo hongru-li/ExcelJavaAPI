@@ -1,0 +1,8 @@
+path=C:\\Work\\constQP
+output=constQP_HEVC.xlsx
+#folders you don't want to include in the graph
+#masks=x265;x264_2s;x264_no_tune_2s;v205_avc_cuton_0B_2;v205_avc_cuton_3B_2;v205_0B;v205_3B
+#masks=x265;v205_avc_cuton_3B;v205_avc_cuton_0B;v205_0B;v205_3B;x264;x264_no_tune;
+masks=v205_avc_3B;v205_avc_0B;x264_0B_nwp;x264_3B_nwp;x265_1B_nwp;x265_1B_skip;x264_0B;x264_3B
+#masks=v205_avc_3B;v205_avc_0B;v205_hevc_1B;x264_0B;x264_3B;x264_0B_nwp;x264_3B_nwp;x264;x264_faster_0B;v205h2643B
+#v205_avc_cutoff;v205_avc_cuton;v205_avc_cutoff_3B;v205_avc_cuton_3B;v205_hevc;v205_hevc_1B;v205_hevc_ada;v205_hevc_ada_cuton;x264;x265
